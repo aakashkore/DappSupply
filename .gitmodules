@@ -1,0 +1,3 @@
+[submodule "supply"]
+	path = supply
+	url = https://github.com/aakashkore/DappSupply.git
